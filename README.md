@@ -1,6 +1,9 @@
 # the_Interpreter
 Interpreter program for a mock language X, X is considered a simplified version of Java
 
+The interpreter is responsible for processing byte codes that are created from the source code files with the extension x. The interpreter and the Virtual Machine works together to run a program written in the Language X.
+
+
 How to Build:
 You must first have an IDE or some Java Development environment project on your system. 
 If you do not, I recommend installing Intelli-J or Netbeans. For my example I will be using Intelli-J. 
